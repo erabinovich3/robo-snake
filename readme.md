@@ -1,12 +1,14 @@
-/***************************************
+========================================================================
                 ROBO SNAKE
         Created by Erica Rabinovich
-***************************************\
+========================================================================
 
 A modern take on a classic game! Build your robot army by collecting
 items you need (such as batteries and gears), but be careful not to crash into anything.
 
 Crashing into the borders or into your own army means game over!
+
+Gameplay
 --------------------------------------------------------------------------------------------------
 Press SELECT (backspace on your keyboard) at any point in time to return to the title screen, but your progress will
 be lost if you return mid-game.
