@@ -1,5 +1,7 @@
-                # ROBO SNAKE
-        ### Created by Erica Rabinovich
+
+# ROBO SNAKE
+### Created by Erica Rabinovich
+
 
 A modern take on a classic game! Build your robot army by collecting
 items you need (such as batteries and gears), but be careful not to crash into anything.
